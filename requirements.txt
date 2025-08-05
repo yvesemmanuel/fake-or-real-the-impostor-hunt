@@ -1,0 +1,9 @@
+torch
+torchaudio
+torchvision
+ipykernel
+wordcloud
+scikit-learn
+seaborn
+nltk
+nlpaug
